@@ -1,0 +1,121 @@
+
+body {
+	padding: 0px;
+	margin: 0px;
+	background: #eee2b4;
+
+}
+title{
+    color:black
+    
+}
+
+h1
+.center{
+    text-align: center;
+    position:
+}
+
+.marrom{
+    color: #eee2b4;
+    float: left;
+    height: inherit;
+}
+
+header ul{
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+header ul li{
+    float: left;
+}
+
+header ul li a{
+    display: block;
+    padding: 21px;
+    font-size: 1.1em;
+    text-decoration: none;
+}
+
+header *{
+    color: #eee2b4;
+}
+
+.btn{
+    padding: .5rem 1rem;
+    background-color: #eee2b4;
+    position: absolute;
+}
+
+header {
+	background-color: #50ad7d;
+	height: 66px;
+}
+
+/*Conteudo*/
+.posts-recentes-titulo{
+    text-align: center;
+}
+
+.conteudo{
+    width: 100%;
+    margin: 30px auto 30px;
+    overflow: auto;
+}
+
+.conteudo .conteudo-principal{
+    width: 70%;
+    float: left;
+}
+
+.conteudo .conteudo-principal .post-ifpe{
+    width: 95%;
+    height: 270px;
+    margin: 10px auto;
+    border-radius: 5px;
+	background-color: #e7daa5;
+    position: relative;
+}
+
+.conteudo .conteudo-principal .post-ifpe .imagem-post{
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+
+.conteudo .conteudo-principal .post-casa{
+    width: 95%;
+    height: 270px;
+    margin: 10px auto;
+    border-radius: 5px;
+	background-color: #e7daa5;
+    position: relative;
+}
+
+.conteudo .conteudo-principal .post-casa .imagem-post{
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+
+.barra-lateral{
+    width: 30%;
+    float: left;
+    height: 1000px;
+}
+
+/*rodapé*/
+footer{
+    background-color: #336e50;
+    color: #eee2b4;
+    bottom: 0;
+    width: 100%;
+    height: 100px
+}
+
+.rodape-copyright{
+    text-align: center;
+}
